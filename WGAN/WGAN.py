@@ -94,7 +94,7 @@ def discriminator(input_images, reuse=False):
         
         output = tf.sigmoid(logits)
         
-        return output
+        return logits
     
     
 # define generator 
