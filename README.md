@@ -8,8 +8,8 @@ In this repository, three GANs, i.e., DCGAN, WGAN, and ACGAN, are built to gener
 python DCGAN.py
 
 
-## How to evaluate the trained model (e.g., DCGAN)
-There is a jupyternotebook within each folder can be used to restore the models, generate the images, and track the training plots. 
+## How to evaluate the trained model
+There is a jupyternotebook within each folder can be used to restore the models and generate the images. 
 
 
 ## How to get the FID score
