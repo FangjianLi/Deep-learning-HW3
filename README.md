@@ -17,6 +17,6 @@ The repository <https://github.com/bioinf-jku/TTUR> can be used.
 
 
 ## The packages
-python==3.6
-tensorflow==1.14
-numpy
+python==3.6<br>
+tensorflow==1.14<br>
+numpy<br>
